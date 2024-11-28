@@ -1,4 +1,4 @@
-# This repo included some knowledge point for React TIC-TAE-TOC tutorial
+**This repo included some knowledge point for React TIC-TAE-TOC tutorial**
 
 ## Added the the impovement Idea:
 
